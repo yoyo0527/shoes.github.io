@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shoes.github.io/static/css/main.765f5778.css",
+    "main.js": "/shoes.github.io/static/js/main.4aa71435.js",
+    "static/js/787.198f54c8.chunk.js": "/shoes.github.io/static/js/787.198f54c8.chunk.js",
+    "static/media/IMAGE1.png": "/shoes.github.io/static/media/IMAGE1.f816f20f68221aae3a06.png",
+    "static/media/IMAGE2.png": "/shoes.github.io/static/media/IMAGE2.f03096b0be9677540107.png",
+    "static/media/IMAGE3.jpeg": "/shoes.github.io/static/media/IMAGE3.1f1bcccd99a29b1b161f.jpeg",
+    "static/media/IMAGE5.png": "/shoes.github.io/static/media/IMAGE5.325364977363b7d1f887.png",
+    "static/media/IMAGE8.png": "/shoes.github.io/static/media/IMAGE8.b11aad2842e92cc34313.png",
+    "static/media/IMAGE4.png": "/shoes.github.io/static/media/IMAGE4.9e6f6b4fccc99823e10f.png",
+    "static/media/IMAGE7.png": "/shoes.github.io/static/media/IMAGE7.9e730de2f7c23cac50ad.png",
+    "static/media/IMAGE6.png": "/shoes.github.io/static/media/IMAGE6.54ace2682fa439e14a74.png",
+    "static/media/image7.webp": "/shoes.github.io/static/media/image7.75bfbf585db7570acfe8.webp",
+    "index.html": "/shoes.github.io/index.html",
+    "main.765f5778.css.map": "/shoes.github.io/static/css/main.765f5778.css.map",
+    "main.4aa71435.js.map": "/shoes.github.io/static/js/main.4aa71435.js.map",
+    "787.198f54c8.chunk.js.map": "/shoes.github.io/static/js/787.198f54c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.765f5778.css",
+    "static/js/main.4aa71435.js"
+  ]
+}
